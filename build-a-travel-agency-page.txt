@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <title>Travel Agency Page</title>
+    <meta name="description" content="Discover amazing travel destinations and packages with our trusted travel agency. Explore group travels, private tours, and top itineraries." />
+  </head>
+  <body>
+    <h1>Explore Our Travel Destinations</h1>
+    <p>Embark on unforgettable journeys with our curated travel experiences designed for every kind of traveler.</p>
+
+    <h2>Packages</h2>
+    <p>Choose from a variety of travel packages tailored to your interests and travel style.</p>
+    <ul>
+      <li><a href="https://www.freecodecamp.org/learn" target="_blank">Group Travels</a></li>
+      <li><a href="https://www.freecodecamp.org/learn" target="_blank">Private Tours</a></li>
+    </ul>
+
+    <h2>Top Itineraries</h2>
+    <figure>
+      <a href="https://www.freecodecamp.org/learn" target="_blank">
+        <img src="https://cdn.freecodecamp.org/curriculum/labs/colosseo.jpg" alt="Colosseum in Rome" />
+      </a>
+      <figcaption>Rome – Discover ancient wonders</figcaption>
+    </figure>
+    <figure>
+      <a href="https://www.freecodecamp.org/learn" target="_blank">
+        <img src="https://cdn.freecodecamp.org/curriculum/labs/alps.jpg" alt="Snowy Alps mountains" />
+      </a>
+      <figcaption>Alps – Adventure in the mountains</figcaption>
+    </figure>
+    <figure>
+      <a href="https://www.freecodecamp.org/learn" target="_blank">
+        <img src="https://cdn.freecodecamp.org/curriculum/labs/sea.jpg" alt="Tropical beach and sea" />
+      </a>
+      <figcaption>Tropical Paradise – Relax by the sea</figcaption>
+    </figure>
+  </body>
+</html>
